@@ -21,6 +21,7 @@
 **Дополнительные технологии:**
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+**вёрстка email‑писем (адаптивная)**
 
 **Адаптивная верстка:**
 ![CSS Grid](https://img.shields.io/badge/CSS_Grid-1572B6?style=for-the-badge&logo=css3&logoColor=white)
